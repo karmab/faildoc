@@ -58,6 +58,6 @@ html_static_path = ['_static']
 
 # autoapi
 autoapi_type = 'python'
-autoapi_dirs = ['../faildoc']
+autoapi_dirs = ['../faildoc', '../kvirt']
 autoapi_options = ['members', 'show-inheritance']
 autoapi_add_toctree_entry = False
